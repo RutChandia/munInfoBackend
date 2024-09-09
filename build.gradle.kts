@@ -37,14 +37,6 @@ dependencies {
     implementation("io.ktor:ktor-client-core")
     implementation("io.ktor:ktor-client-cio")
 
-/*    //// Exposed for database access
-    implementation("org.jetbrains.exposed:exposed-core:0.38.1")
-    implementation("org.jetbrains.exposed:exposed-dao:0.38.1")
-    implementation("org.jetbrains.exposed:exposed-jdbc:0.38.1")
-
-    // MariaDB dependencies
-    implementation("org.mariadb.jdbc:mariadb-java-client:3.0.0")*/
-
     //Jsoup
     implementation("org.jsoup:jsoup:1.18.1")
 
