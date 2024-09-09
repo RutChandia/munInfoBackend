@@ -1,4 +1,4 @@
-Este proyecto realiza scrapping de información de comunas y municipalidades  desde el Sistema Nacional de Información Municipal, usando [Ktor](https://ktor.io/) y [Jsoup](https://jsoup.org/).
+Este proyecto realiza scrapping de información de comunas desde el Sistema Nacional de Información Municipal, usando [Ktor](https://ktor.io/) y [Jsoup](https://jsoup.org/).
 
 ## Endpoints
 
