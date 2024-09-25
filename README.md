@@ -42,7 +42,7 @@ Este proyecto realiza scrapping de información de comunas desde el Sistema Naci
 {
 "id": "09201",
 "name": "ANGOL"
-}]
+}... etc
 ```
 
 ### 2. Información de una Comuna
@@ -83,5 +83,5 @@ Este proyecto realiza scrapping de información de comunas desde el Sistema Naci
       {
         "name": "Virginia Bernardina Palma Erpel",
         "politicalParty": "Partido Comunista de Chile"
-      }]
+      }...etc
 ```
